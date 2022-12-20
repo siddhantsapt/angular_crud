@@ -1,0 +1,18 @@
+.align-center{
+	width: 40%;
+	margin: auto;
+}
+.login-card{
+	margin-top: 5%;
+	border-radius: 15px;
+}
+h1{
+	text-align: center;
+}
+
+.login-card{
+	text-align: center;
+	border: 2px solid black;
+	width: 500px;
+	margin: auto;
+}
